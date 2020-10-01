@@ -1,4 +1,4 @@
-# Build a Website with Node.js
+# Build a Website with Node.js easily!!!
 
 Full project for the Build a Website with Node course. 
 
@@ -11,4 +11,4 @@ Full project for the Build a Website with Node course.
 
 ## Course Videos
 
-[Watch the first three lessons free](https://school.scotch.io/build-a-nodejs-website)
+[Watch the first three lessons for free](https://school.scotch.io/build-a-nodejs-website)
